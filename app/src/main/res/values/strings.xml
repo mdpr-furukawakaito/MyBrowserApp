@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyBrowserApp</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_reload">Reload</string>
+    <string name="action_forward">Forward</string>
+    <string name="action_back">Back</string>
+    <string name="browse">Browse</string>
+
+
+</resources>
